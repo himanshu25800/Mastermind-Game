@@ -32,11 +32,26 @@ Milestone Planning
 | 🧩 Phase 4               | Modularize client with command pattern      |
 | 🧪 Phase 5               | Extend with UDP, scoreboard, etc.           |
 
+Here's a Markdown-friendly version of your instructions:
 
-### How to run:
-first download the code
-in terminal run make file >> make
-now the client and server will be made in build section:
-run these in seperate terminal,
->> ./build/server ---- for server
->> ./build/client ---- for client
+markdown
+
+### 🚀 How to Run the Project
+
+1. **Download the code**
+
+2. **Build the project using the Makefile**
+
+   ```bash
+   make
+**This will compile the code and create the binaries in the build/ directory.**
+
+3. **Run the server and client in separate terminals**
+
+**Terminal 1 (Server):**
+
+  ``` bash  ./build/server ```
+ 
+
+**Terminal 2 (Client): **
+  ``` bash ./build/client ```
