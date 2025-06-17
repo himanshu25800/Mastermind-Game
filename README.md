@@ -31,3 +31,12 @@ Milestone Planning
 | 🧠 Phase 3               | Implement Mastermind logic                  |
 | 🧩 Phase 4               | Modularize client with command pattern      |
 | 🧪 Phase 5               | Extend with UDP, scoreboard, etc.           |
+
+
+### How to run:
+first download the code
+in terminal run make file >> make
+now the client and server will be made in build section:
+run these in seperate terminal,
+>> ./build/server ---- for server
+>> ./build/client ---- for client
