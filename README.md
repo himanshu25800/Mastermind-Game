@@ -26,7 +26,7 @@ Server:
 Milestone Planning
 | Milestone                | Description                                 |
 | ------------------------ | ------------------------------------------- |
-| ✅ Phase 1 (You are here) | Plan structure, game rules, and protocol    |
+| ✅ Phase 1               | Plan structure, game rules, and protocol    |
 | 🔜 Phase 2               | Setup basic TCP client-server communication |
 | 🧠 Phase 3               | Implement Mastermind logic                  |
 | 🧩 Phase 4               | Modularize client with command pattern      |
