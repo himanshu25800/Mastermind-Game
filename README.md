@@ -53,5 +53,6 @@ markdown
   ``` bash  ./build/server ```
  
 
-**Terminal 2 (Client): **
+**Terminal 2 (Client):**
+
   ``` bash ./build/client ```
